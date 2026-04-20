@@ -2,7 +2,7 @@
 
 An end-to-end analytics pipeline built on the [City of Vancouver's Open Data Portal](https://opendata.vancouver.ca/explore/dataset/3-1-1-service-requests/), analyzing 10,000+ resident service requests to surface operational trends across Vancouver's city departments and neighbourhoods.
 
-![Dashboard Screenshot](screenshots/dashboard.png)
+![Dashboard Screenshot](screenshots/PBIX-311Analytics-Screenshot.png)
 
 ---
 
